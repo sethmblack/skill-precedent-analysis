@@ -1,10 +1,9 @@
 ---
 name: precedent-analysis
-description: Analyze decisions for the patterns they establish and the norms they
-  create for future actors.
+description: Analyze decisions for the patterns they establish and the norms they create for future actors.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - precedent-analysis
